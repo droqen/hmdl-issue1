@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://daot7hi4h02dk"]
+
+[ext_resource type="Script" uid="uid://d3eoom8du3gi4" path="res://museum/mainview.gd" id="1_bul5q"]
+
+[node name="Mainview" type="Node2D"]
+script = ExtResource("1_bul5q")
